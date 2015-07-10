@@ -1,9 +1,9 @@
 {
-	"name": "lechpat/cakephp-queue",
+	"name": "lechpat/cake-queue",
 	"type": "cakephp-plugin",
 	"description": "The Queue plugin for CakePHP 3 provides deferred task execution.",
 	"keywords": ["cakephp","queue","deferred tasks","background"],
-	"homepage": "http://github.com/lechpat/cakephp-queue",
+	"homepage": "https://github.com/lechpat/CakeQueue.git",
 	"license": "MIT",
 	"authors": [
 		{
