@@ -1,9 +1,9 @@
 {
-	"name": "dereuromark/cakephp-queue",
+	"name": "lechpat/cakephp-queue",
 	"type": "cakephp-plugin",
-	"description": "The Queue plugin for CakePHP provides deferred task execution.",
+	"description": "The Queue plugin for CakePHP 3 provides deferred task execution.",
 	"keywords": ["cakephp","queue","deferred tasks","background"],
-	"homepage": "http://github.com/dereuromark/cakephp-queue",
+	"homepage": "http://github.com/lechpat/cakephp-queue",
 	"license": "MIT",
 	"authors": [
 		{
@@ -22,14 +22,7 @@
 		"php": ">=5.4.16"
 	},
 	"require-dev": {
-		"dereuromark/cakephp-tools": "dev-cake3",
 		"cakephp/migrations": "dev-master"
-	},
-	"suggest": {
-		"dereuromark/cakephp-tools": "For the Email lib and QueueEmailTask. Or write your own task here."
-	},
-	"support": {
-		"source": "https://github.com/dereuromark/cakephp-queue"
 	},
 	"autoload": {
 		"psr-4": {
